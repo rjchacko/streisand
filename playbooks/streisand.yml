@@ -31,10 +31,10 @@
     - shadowsocks
     - ssh
     - tinyproxy
+    - tor-bridge
     - sslh
     - monit
     - ufw
     - wireguard
     - streisand-mirror
     - streisand-gateway
-#    - tor-bridge
